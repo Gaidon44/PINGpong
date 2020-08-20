@@ -12,7 +12,7 @@ public class Tennis  extends Applet{
 	}
 	
 	public void paint(){
-		setColor(Color.black);
+		
 	}
 	
 	public void update() {

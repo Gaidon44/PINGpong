@@ -1,3 +1,4 @@
 # Ping pong  
-This a class project between Gaidon and luge 
-for creating a ping pong game in java
+
+Gaidon M katembo NIT/BIT/2018/794
+
