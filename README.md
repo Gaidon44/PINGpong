@@ -1,4 +1,6 @@
 # Ping pong  
 
-Gaidon M katembo NIT/BIT/2018/794
+Class project (Ping pong game)
 
+LUGE,SUED M NIT/BIT/2018/796
+KATEMBO,GAIDON M NIT/BIT/2018/794 
